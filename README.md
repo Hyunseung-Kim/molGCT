@@ -47,17 +47,12 @@ The molecules in circle are real molecules in MOSES database, and the molecules 
 conda env create -f molgct_env.yaml
 ```
 
-2. Unzip the data.zip to the following path):
-```
-molGCT-main/data/~
-```
-
-3. Run to train GCT:
+2. Run to train GCT:
 ```
 python train.py
 ```
 
-4. Run to infer molecules with the trained GCT:
+3. Run to infer molecules with the trained GCT:
 ```
 python inference.py
 ```
@@ -65,4 +60,4 @@ python inference.py
 
 # References
 Basic Transformer code is borrowed and modified from: https://github.com/SamLynnEvans/Transformer  
-Molecular data (data.zip) are borrowed from: https://github.com/molecularsets/moses/tree/master/data
+Molecular data are borrowed from: https://github.com/molecularsets/moses/tree/master/data
