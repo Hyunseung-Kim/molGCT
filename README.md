@@ -59,5 +59,5 @@ python inference.py
 
 
 # References
-Basic Transformer code is borrowed and modified from: https://github.com/SamLynnEvans/Transformer  
-Molecular data are borrowed from: https://github.com/molecularsets/moses/tree/master/data
+Basic Transformer code was borrowed and modified from: https://github.com/SamLynnEvans/Transformer  
+Molecular data was borrowed from: https://github.com/molecularsets/moses/tree/master/data
