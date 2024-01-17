@@ -42,6 +42,7 @@ The molecules in circle are real molecules in MOSES database, and the molecules 
   
 
 # Implementation
+This code was test in Windows OS
 1. Set up your anaconda environment with the following code:
 ```
 conda env create -f molgct_env.yaml
